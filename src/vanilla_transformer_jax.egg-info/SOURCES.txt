@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/vanilla_transformer_jax.egg-info/PKG-INFO
+src/vanilla_transformer_jax.egg-info/SOURCES.txt
+src/vanilla_transformer_jax.egg-info/dependency_links.txt
+src/vanilla_transformer_jax.egg-info/requires.txt
+src/vanilla_transformer_jax.egg-info/top_level.txt
+src/vtransformer/__init__.py
+src/vtransformer/layers.py
+src/vtransformer/model.py

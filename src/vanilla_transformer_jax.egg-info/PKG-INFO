@@ -1,3 +1,21 @@
+Metadata-Version: 2.1
+Name: vanilla-transformer-jax
+Version: 0.0.3
+Summary: JAX/Flax implimentation of 'Attention is All You Need' by Vaswani et al.
+Home-page: https://github.com/Bhavnicksm/vanilla-transformer-jax
+Author: bhavnicksm
+Author-email: bhavnicksm@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Bhavnicksm/vanilla-transformer-jax/issues
+Keywords: transformer,JAX,Flax,Deep-Learning
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Vanilla Transformer
 JAX/Flax implimentation of 'Attention Is All You Need' by Vaswani et al. (https://arxiv.org/abs/1706.03762)  
 
@@ -50,3 +68,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
